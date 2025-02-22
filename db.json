@@ -1,0 +1,31 @@
+{
+  "produits": [
+    {
+      "id": 1,
+      "prodId": 101,
+      "code": "P001",
+      "designation": "Produit A",
+      "prix": 199.99,
+      "dateExpiration": "2025-06-30T00:00:00.000Z",
+      "description": "Description du produit A"
+    },
+    {
+      "id": 2,
+      "prodId": 102,
+      "code": "P002",
+      "designation": "Produit B",
+      "prix": 299.99,
+      "dateExpiration": "2025-07-15T00:00:00.000Z",
+      "description": "Description du produit B"
+    },
+    {
+      "id": 3,
+      "prodId": 103,
+      "code": "P003",
+      "designation": "Produit C",
+      "prix": 399.99,
+      "dateExpiration": "2025-08-01T00:00:00.000Z",
+      "description": "Description du produit C"
+    }
+  ]
+}
